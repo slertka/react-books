@@ -1,0 +1,15 @@
+.bookResults ul li {
+  list-style: none;
+}
+
+.bookResult {
+  border: 1px solid grey;
+  text-align: center;
+}
+
+ul {
+  padding: 0px;
+}
+
+img {
+}
